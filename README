@@ -1,0 +1,9 @@
+Este proyecto se centra en predecir si un cliente contratará un depósito a largo plazo mediante la aplicación de un modelo de clasificación basado en regresión logística.
+
+Primero, se carga el conjunto de datos disponible en el sigioente enlace https://raw.githubusercontent.com/4GeeksAcademy/logistic-regression-project-tutorial/main/bank-marketing-campaign-data.csv, que contiene información sobre clientes y campañas previas. Luego, se realiza un análisis exploratorio de datos (EDA) para identificar patrones, eliminar variables irrelevantes y dividir el conjunto en datos de entrenamiento y prueba.
+
+A continuación, se entrena un modelo de regresión logística para predecir la aceptación del depósito. 
+
+Finalmente, se evalúa el rendimiento del modelo y se guarda la solución.En este caso no se optimiza el modelo al obtener un 99% de exactitud en la predicción.
+
+Este enfoque ayuda a mejorar la eficiencia del marketing bancario, reduciendo costos y enfocando los esfuerzos en clientes con mayor probabilidad de conversión. La solución se encuentra en la carpeta SRC, en el notebook "explore.ipynb".
